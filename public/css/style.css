@@ -246,6 +246,10 @@ a {
     background-image: url(../images/resources/bg4.jpg);
 }
 
+.bg5 {
+    background-image: url(../images/blog2.jpg);
+}
+
 a {
     -webkit-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
