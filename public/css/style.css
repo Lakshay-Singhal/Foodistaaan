@@ -285,12 +285,12 @@ a:hover {
 
 .btn-default {
     display: inline-block;
-    background: linear-gradient(93.93deg, #d8ab37 0%, #f18345 100%);
+    background: #6c35ac;
     height: 64px;
     line-height: 64px;
     padding: 0 45px;
     overflow: hidden;
-    font-size: 16px;
+    font-size: 22px;
     position: relative;
     color: #fff;
     -webkit-border-radius: 50px;
@@ -926,14 +926,14 @@ header .menu-btn.active span.bar3 {
     color: #fff;
     text-transform: capitalize;
     font-weight: 800;
-    font-size: 80px;
+    font-size: 65px;
     line-height: 88px;
     margin-bottom: 29px;
 }
 .main-banner .banner-text > span {
     display: block;
     color: #ffffff;
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 55px;
 }
 .main-banner .banner-text form {
